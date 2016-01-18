@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/index.jsp=UTF-8
+encoding//src/weibo4j/Weibo.java=UTF-8
+encoding//src/weibo4j/examples/timeline/Upload.java=UTF-8
+encoding//src/weibo4j/model/Comment.java=UTF-8
+encoding//src/weibo4j/model/Paging.java=UTF-8
+encoding//src/weibo4j/model/Query.java=UTF-8
+encoding//src/weibo4j/model/Status.java=UTF-8
+encoding//src/weibo4j/model/User.java=UTF-8

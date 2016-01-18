@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="weibozaixina"
+  id="myeclipse.1453032937991"
+  context-root="/weibozaixina"
+  j2ee-spec="5.0"
+  archive="weibozaixina.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
